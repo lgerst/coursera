@@ -1,0 +1,64 @@
+body {
+  color: black;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+/** HEADER **/
+
+#header-nav {
+  background-color: #999999;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 3px solid black;
+  border-left: 0;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  margin-left: 0;
+  padding-top: 10px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.6em;
+  margin-top: 0;
+}
+
+#collapsable-nav {
+  border: 0;
+}
+
+#nav-list {
+  color: black;
+  background-color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.list-element {
+  border-top: 3px solid black;
+}
+
+/** MAIN CONTENT **/
+
+#menu-title {
+  margin-top: 10px;
+}
+
+.section {
+  background-color: #999999;
+  margin-top: 20px;
+  padding: 5px 15px 5px 15px;
+}
+
+#section-title {
+  font-size: 1.4em;
+}
+
+
+
